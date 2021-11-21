@@ -1,3 +1,6 @@
+//note that this file is not part of the challenge, but 
+//is part of the module content in preparation.
+
 //import the data from data.js
 const tableData=data;
 
